@@ -6,8 +6,7 @@
 <br/>
 </div>
  💫 About Me:
-
-I'm a Computer Science graduate from the University of Thessaly interested in
+  I'm a Computer Science graduate from the University of Thessaly interested in
 web development, software engineering, and building software that solves real problems.
 
 Currently working with React, TypeScript, JavaScript, PHP and WordPress
@@ -28,7 +27,7 @@ Currently working with React, TypeScript, JavaScript, PHP and WordPress
 ### 🦿 HERMES Team Website
 Website for the HERMES human mobility team.
 
-**Tech:** Next.js · TypeScript · Tailwind · Sanity · Cloudflare
+**Tech:** Next.js · TypeScript · Tailwind · React · Cloudflare
 
 [View Project →](https://www.hermesteam.eu/)
 # 📊 GitHub Stats:
