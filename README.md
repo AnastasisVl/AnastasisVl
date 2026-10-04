@@ -18,7 +18,6 @@ Currently working with React, TypeScript, JavaScript, PHP and WordPress
 
 - 🦿 **HERMES Team Website** — Website for the HERMES human-mobility team
 - 📚 **Noted** — Student-focused notes and university organization app
-- 🌐 **Personal Website** — My personal developer portfolio
 - 🔌 **WordPress Plugin** — Plugin for organizing scientific publications
 
 ## 🌐 Socials:
