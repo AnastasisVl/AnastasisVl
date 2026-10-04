@@ -12,6 +12,8 @@
 web development, software engineering, and building software that solves real problems.
 
 Currently working with React, TypeScript, JavaScript, PHP and WordPress
+ 
+ 
  🚀 What I'm Working On
 
 - 🦿 **HERMES Team Website** — Website for the HERMES human-mobility team
