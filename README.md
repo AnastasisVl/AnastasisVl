@@ -6,6 +6,8 @@
 <br/>
 </div>
  💫 About Me:
+  
+  
   I'm a Computer Science graduate from the University of Thessaly interested in
 web development, software engineering, and building software that solves real problems.
 
